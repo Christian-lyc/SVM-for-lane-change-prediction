@@ -4,6 +4,7 @@
 This repository is meant to provide an easy-to-use implementation of the SVM classifier using the opencv. 
 <br />
 opencv2.4.13 is needed in this project. There's a parameter tuning program in the main.cpp. You can use it to find the best C, gamma and p.
+
 There is also a one against all SVM train method above, you can either choose this or choose one against one SVM to train your data.
 
 Original PR: https://github.com/Itseez/opencv/pull/5291
